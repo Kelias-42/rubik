@@ -10,4 +10,4 @@ Overall, the algorithm performs pretty well in terms of speed (few seconds max) 
 
 
 # Credit
-Made with [Florian Blanchard](https://github.com/floblanc), [Julien Dumay](https://github.com/chokmania) and myself, [Aleksi Gautier](https://github.com/kelias-42) in 2020.
+Made by [Florian Blanchard](https://github.com/floblanc), [Julien Dumay](https://github.com/chokmania) and myself, [Aleksi Gautier](https://github.com/kelias-42) in 2020.
